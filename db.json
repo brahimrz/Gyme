@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "275e",
+      "name": "Brahim razquaoui",
+      "email": "rzbrahim5@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "c604",
+      "name": "mohamed razquaoui",
+      "email": "test@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "e08c",
+      "name": "Brahim razquaoui",
+      "email": "rzbrahim5@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
